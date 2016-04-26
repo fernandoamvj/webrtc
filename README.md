@@ -21,6 +21,6 @@ Atribuições:
 - WebRTC.org, criada por [webrtc.org][link1]
 
 
-[slides]: 
-[exgit]: 
+[slides]: https://docs.google.com/presentation/d/1ASAHwlZtE083E-jeXZNlO2W6k4YwM-C4ffnAYvZS6OU/edit?pref=2&pli=1#slide=id.g1261d728af_0_50
+[exgit]: https://github.com/fernandoamvj/webrtc
 [link1]: https://webrtc.org/
