@@ -1,6 +1,8 @@
 # WebRTC API 
 
+API de comunicação de midia e arquivos ponto a ponto entre browsers
 
+![](images/screenshot.png)
 
 ## Links do Exemplo
 
